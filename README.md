@@ -3,10 +3,10 @@
 
 
 ### 💜 Sobre mim
-Prazer, sou Gabriela e sou Desenvolvedora front-end.
-+ Formada em Análise e Desenvolvimento de Sistemas na FIAP.
-+ Experiência e conhecimento adquiridos com projetos pessoais, freelancer e acadêmicos.
-+ Interessada em se especializar na área de <strong>Desenvolvimento Front-end </strong>.
+Prazer, sou Gabriela, Desenvolvedora Back-End em formação.
++ Formada em Análise e Desenvolvimento de Sistemas na FIAP e cursando Engenharia de Software.
++ Experiência e conhecimento adquiridos com projetos pessoais e acadêmicos.
++ Interessada em se especializar na área de <strong>Desenvolvimento Back-End </strong>.
 
 <p>🎬 Tech creator. Eu compartilho da minha vida como desenvolvedora no <a href="https://www.youtube.com/@gabimdevs" target="_blank">Youtube</a> e <a href="https://www.linkedin.com/in/gabimdevs/" target="_blank">LinkedIn</a> !!</p>
 <hr>
