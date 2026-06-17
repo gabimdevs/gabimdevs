@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F27E3&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Seja+Bem+vindo+ao+meu+Github!+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=+Olá,+Seja+Bem+vindo+ao+meu+Github!+)](https://git.io/typing-svg)
 
 
 
-### 💜 Sobre mim
+### 🩷 Sobre mim
 Prazer, sou Gabriela, Desenvolvedora Back-End em formação.
 + Formada em Análise e Desenvolvimento de Sistemas na FIAP e cursando Engenharia de Software.
 + Experiência e conhecimento adquiridos com projetos pessoais e acadêmicos.
