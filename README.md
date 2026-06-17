@@ -12,7 +12,7 @@ Prazer, sou Gabriela, Desenvolvedora Back-End em formação.
 <hr>
 
 
-[![Gabriela's Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,git,nodejs,figma,vite,)](https://skillicons.dev)
+[![Gabriela's Skills](https://skillicons.dev/icons?i=html,css,javascript,react,typescript,python,java,git,nodejs,figma,vite,)](https://skillicons.dev)
 
 
 <div align="center">
